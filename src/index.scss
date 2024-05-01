@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300..700&family=Contrail+One&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  cursor: default;
+}
+
+*::selection {
+  display: none;
+}
